@@ -1,0 +1,2 @@
+# tensorflow_titanic_logistic_regression
+tensorflow实现泰坦尼克号生存率预测
